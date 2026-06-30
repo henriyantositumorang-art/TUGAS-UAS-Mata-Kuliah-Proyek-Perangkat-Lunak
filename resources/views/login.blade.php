@@ -234,13 +234,6 @@
                     <span>Sign in with Google</span>
                 </button>
             </form>
-
-            <!-- Warnings / Notice Information -->
-            <div class="info-card">
-                <p class="info-card-text">
-                    Diinformasikan bagi seluruh pengguna <strong>FICOMS/RMS</strong>. Untuk pengalaman lebih baik, login <strong>FICOMS/RMS</strong> sudah menggunakan <strong>SSO Google</strong>.
-                </p>
-            </div>
         </div>
     </div>
 
